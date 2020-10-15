@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BlocksScript/NormalBlock.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="61" Column="10" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="23" Column="49" />
+      <File FileName="Assets/Scripts/BallMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameControler.cs" Line="51" Column="63" />
+      <File FileName="Assets/Scripts/BlocksScript/BrickableBlock.cs" Line="34" Column="13" />
+      <File FileName="Assets/Scripts/BlocksScript/NormalBlock.cs" Line="44" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="BlocksScript" expanded="True">
+                    <Node name="NormalBlock.cs" selected="True" />
+                  </Node>
+                  <Node name="PowerScripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
